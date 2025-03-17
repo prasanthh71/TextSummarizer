@@ -33,6 +33,7 @@ Once the script is running, a **Gradio interface** will be launched where users 
 ├── .gitattributes     # Hugging Face configuration
 ```
 
+![Demo](demo.png)
 
 
 ## Contributing
